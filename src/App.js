@@ -1,7 +1,6 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Page1 from "./pages/Page1";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { gsap } from "gsap";
 import Navbar from "./components/Navbar"
 
 
