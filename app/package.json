@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "@babel/helper-builder-react-jsx": "^7.12.13",
+    "@babel/helper-regex": "^7.10.5",
     "babel": "^6.23.0",
     "gensync": "^1.0.0-beta.2",
     "gsap": "^3.6.1",
+    "netlify-cli": "^3.29.17",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
