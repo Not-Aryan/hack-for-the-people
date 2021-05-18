@@ -20,7 +20,6 @@ function Home() {
     //content vars
     const headlineFirst = content.children[0].children[0];
     const headlineSecond = headlineFirst.nextSibling;
-    const headlineThird = headlineSecond.nextSibling;
     const contentP = content.children[1];
     const contentButton = content.children[2];
 
